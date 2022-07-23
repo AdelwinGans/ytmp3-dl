@@ -18,7 +18,7 @@ except:
   \__, |\__|_| |_| |_| .__/____/      \__,_|_|
    __/ |             | |                      
   |___/              |_|                      
-      .:Tools by AdelwinNL - DragonXploiter:.
+           .:Tools by AdelwinNL:.
         Tutorial : python ytmp3.py (urlnya)
 
 """)
